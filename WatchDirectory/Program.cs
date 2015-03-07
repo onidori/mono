@@ -5,7 +5,7 @@ namespace WatcherTest
 {
 	public class WatchDirectory {
 		private static void OnFileSystemEvent(object sender, FileSystemEventArgs e) {
-			Console.WriteLine("Something happened to {0} at {1}", e.Name, e.ChangeType);
+			Console.WriteLine("Something happened to {0}", e.Name);
 		}
 
 		private static void OnChanged (object sender, FileSystemEventArgs e) {
