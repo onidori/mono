@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloworld", "helloworld\helloworld.csproj", "{D58C4867-4156-4977-B604-92DE17666953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxUnBox", "BoxUnBox\BoxUnBox.csproj", "{5C1BD38B-7903-42AA-89F0-060740704F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchDirectory", "WatchDirectory\WatchDirectory.csproj", "{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C1BD38B-7903-42AA-89F0-060740704F2B}.Debug|x86.ActiveCfg = Debug|x86
+		{5C1BD38B-7903-42AA-89F0-060740704F2B}.Debug|x86.Build.0 = Debug|x86
+		{5C1BD38B-7903-42AA-89F0-060740704F2B}.Release|x86.ActiveCfg = Release|x86
+		{5C1BD38B-7903-42AA-89F0-060740704F2B}.Release|x86.Build.0 = Release|x86
+		{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}.Debug|x86.ActiveCfg = Debug|x86
+		{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}.Debug|x86.Build.0 = Debug|x86
+		{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}.Release|x86.ActiveCfg = Release|x86
+		{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}.Release|x86.Build.0 = Release|x86
+		{D58C4867-4156-4977-B604-92DE17666953}.Debug|x86.ActiveCfg = Debug|x86
+		{D58C4867-4156-4977-B604-92DE17666953}.Debug|x86.Build.0 = Debug|x86
+		{D58C4867-4156-4977-B604-92DE17666953}.Release|x86.ActiveCfg = Release|x86
+		{D58C4867-4156-4977-B604-92DE17666953}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
