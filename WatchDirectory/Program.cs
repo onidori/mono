@@ -27,7 +27,11 @@ namespace WatcherTest
 
 		public static void Main (string[] args)
 		{
-			string path = (string)args [0];
+			string path;
+			if (args.Length > 0)
+				path = (string)args [0];
+			else
+				path = "/tmp/monotest";
 
 			FileSystemWatcher watcher = new FileSystemWatcher(path);
 			watcher.Filter = "";
