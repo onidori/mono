@@ -34,6 +34,9 @@
     <Reference Include="MySql.Data">
       <HintPath>..\packages\MySql.Data.6.9.6\lib\net45\MySql.Data.dll</HintPath>
     </Reference>
+    <Reference Include="MyLibrary">
+      <HintPath>..\..\..\git\MonoMacTest.git\MyLibrary\bin\Release\MyLibrary.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />

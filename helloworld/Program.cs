@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using MyLibrary.System;
 
 namespace BoxUnbox
 {
@@ -7,6 +8,8 @@ namespace BoxUnbox
 	{
 		public static void Main (string[] args)
 		{
+			PlatformID MyOID = MyCheckOS ();
+
 			int i = 1;
 			object o = i;
 			o = 10;
@@ -15,6 +18,7 @@ namespace BoxUnbox
 			Console.WriteLine ("j is {0}!", j);
 			Console.WriteLine ("o is {0}!", o);
 
+			Console.WriteLine (Enum.GetName(typeof(PlatformID), MyOID));
 		}
 	}
 }
