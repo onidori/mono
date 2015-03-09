@@ -5,11 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxUnBox", "helloworld\BoxU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchDirectory", "WatchDirectory\WatchDirectory.csproj", "{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursesLibTest", "..\..\git\MonoMacTest.git\CursesLibTest\CursesLibTest.csproj", "{BC28E675-BB01-4CDF-BE63-7715102E2F76}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "..\..\git\MonoMacTest.git\MyLibrary\MyLibrary.csproj", "{CF01D4A9-2F83-41EC-85B8-06F87CE3AFA0}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F08B979D-626D-4B15-B928-50AB8536D9E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursesLibTest", "CursesLibTest\CursesLibTest.csproj", "{4AC61FD7-4322-4543-903F-76D52DF1E7AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{A7A553B7-B035-4A3D-9AFA-F852DC3F9807}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,18 +17,18 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC61FD7-4322-4543-903F-76D52DF1E7AC}.Debug|x86.ActiveCfg = Debug|x86
+		{4AC61FD7-4322-4543-903F-76D52DF1E7AC}.Debug|x86.Build.0 = Debug|x86
+		{4AC61FD7-4322-4543-903F-76D52DF1E7AC}.Release|x86.ActiveCfg = Release|x86
+		{4AC61FD7-4322-4543-903F-76D52DF1E7AC}.Release|x86.Build.0 = Release|x86
 		{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}.Debug|x86.ActiveCfg = Debug|x86
 		{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}.Debug|x86.Build.0 = Debug|x86
 		{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}.Release|x86.ActiveCfg = Release|x86
 		{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}.Release|x86.Build.0 = Release|x86
-		{BC28E675-BB01-4CDF-BE63-7715102E2F76}.Debug|x86.ActiveCfg = Debug|x86
-		{BC28E675-BB01-4CDF-BE63-7715102E2F76}.Debug|x86.Build.0 = Debug|x86
-		{BC28E675-BB01-4CDF-BE63-7715102E2F76}.Release|x86.ActiveCfg = Release|x86
-		{BC28E675-BB01-4CDF-BE63-7715102E2F76}.Release|x86.Build.0 = Release|x86
-		{CF01D4A9-2F83-41EC-85B8-06F87CE3AFA0}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{CF01D4A9-2F83-41EC-85B8-06F87CE3AFA0}.Debug|x86.Build.0 = Debug|Any CPU
-		{CF01D4A9-2F83-41EC-85B8-06F87CE3AFA0}.Release|x86.ActiveCfg = Release|Any CPU
-		{CF01D4A9-2F83-41EC-85B8-06F87CE3AFA0}.Release|x86.Build.0 = Release|Any CPU
+		{A7A553B7-B035-4A3D-9AFA-F852DC3F9807}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A7A553B7-B035-4A3D-9AFA-F852DC3F9807}.Debug|x86.Build.0 = Debug|Any CPU
+		{A7A553B7-B035-4A3D-9AFA-F852DC3F9807}.Release|x86.ActiveCfg = Release|Any CPU
+		{A7A553B7-B035-4A3D-9AFA-F852DC3F9807}.Release|x86.Build.0 = Release|Any CPU
 		{D58C4867-4156-4977-B604-92DE17666953}.Debug|x86.ActiveCfg = Debug|x86
 		{D58C4867-4156-4977-B604-92DE17666953}.Debug|x86.Build.0 = Debug|x86
 		{D58C4867-4156-4977-B604-92DE17666953}.Release|x86.ActiveCfg = Release|x86
