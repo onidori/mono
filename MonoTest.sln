@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchDirectory", "WatchDire
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "..\..\git\MonoMacTest.git\MyLibrary\MyLibrary.csproj", "{CF01D4A9-2F83-41EC-85B8-06F87CE3AFA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimization", "..\..\jmp75\rdotnet-onboarding\Optimization\Optimization.csproj", "{B868339A-56F3-4818-BB7C-D3C53BCFF1C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -23,6 +25,10 @@ Global
 		{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}.Debug|x86.Build.0 = Debug|x86
 		{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}.Release|x86.ActiveCfg = Release|x86
 		{9D09FFFC-6BAF-4657-B8B1-B02EA97357FA}.Release|x86.Build.0 = Release|x86
+		{B868339A-56F3-4818-BB7C-D3C53BCFF1C5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B868339A-56F3-4818-BB7C-D3C53BCFF1C5}.Debug|x86.Build.0 = Debug|Any CPU
+		{B868339A-56F3-4818-BB7C-D3C53BCFF1C5}.Release|x86.ActiveCfg = Release|Any CPU
+		{B868339A-56F3-4818-BB7C-D3C53BCFF1C5}.Release|x86.Build.0 = Release|Any CPU
 		{CF01D4A9-2F83-41EC-85B8-06F87CE3AFA0}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{CF01D4A9-2F83-41EC-85B8-06F87CE3AFA0}.Debug|x86.Build.0 = Debug|Any CPU
 		{CF01D4A9-2F83-41EC-85B8-06F87CE3AFA0}.Release|x86.ActiveCfg = Release|Any CPU
