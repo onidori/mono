@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursesLibTest", "CursesLibT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{A7A553B7-B035-4A3D-9AFA-F852DC3F9807}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gtkTest", "gtkTest\gtkTest.csproj", "{B17C5DEE-7402-48E9-A985-2A87BAE65835}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -29,6 +31,10 @@ Global
 		{A7A553B7-B035-4A3D-9AFA-F852DC3F9807}.Debug|x86.Build.0 = Debug|Any CPU
 		{A7A553B7-B035-4A3D-9AFA-F852DC3F9807}.Release|x86.ActiveCfg = Release|Any CPU
 		{A7A553B7-B035-4A3D-9AFA-F852DC3F9807}.Release|x86.Build.0 = Release|Any CPU
+		{B17C5DEE-7402-48E9-A985-2A87BAE65835}.Debug|x86.ActiveCfg = Debug|x86
+		{B17C5DEE-7402-48E9-A985-2A87BAE65835}.Debug|x86.Build.0 = Debug|x86
+		{B17C5DEE-7402-48E9-A985-2A87BAE65835}.Release|x86.ActiveCfg = Release|x86
+		{B17C5DEE-7402-48E9-A985-2A87BAE65835}.Release|x86.Build.0 = Release|x86
 		{D58C4867-4156-4977-B604-92DE17666953}.Debug|x86.ActiveCfg = Debug|x86
 		{D58C4867-4156-4977-B604-92DE17666953}.Debug|x86.Build.0 = Debug|x86
 		{D58C4867-4156-4977-B604-92DE17666953}.Release|x86.ActiveCfg = Release|x86
