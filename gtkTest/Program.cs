@@ -1,5 +1,6 @@
 ﻿using System;
 using Gtk;
+using MyLibrary.System;
 
 namespace gtkTest
 {
@@ -30,7 +31,9 @@ namespace gtkTest
 
 		static void Button_Clicked(object o, EventArgs args)
 		{
-			System.Console.WriteLine ("Hello World!");
+			PlatformID MyOID = MyCheckOS ();
+			String s = "Hello World! " + Enum.GetName (typeof(PlatformID), MyOID);
+			System.Console.WriteLine (s);
 		}
 	}
 }
