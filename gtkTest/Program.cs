@@ -10,15 +10,14 @@ namespace gtkTest
 		{
 			Application.Init ();
 
-			Window MainWindow = new Window ("GTK# Basics");
+			MainWindow w = new MainWindow ();
 			Button b = new Button ("Hit Me");
 
-			MainWindow.DeleteEvent += new DeleteEventHandler (Window_Delete);
+			w.DeleteEvent += new DeleteEventHandler (Window_Delete);
 			b.Clicked += new EventHandler (Button_Clicked);
-
-			MainWindow.Add (b);
-			MainWindow.SetDefaultSize (200, 100);
-			MainWindow.ShowAll ();
+			w.Add (b);
+//			w.SetDefaultSize (200, 100);
+			w.ShowAll ();
 
 			Application.Run ();
 		}
@@ -32,7 +31,9 @@ namespace gtkTest
 		static void Button_Clicked(object o, EventArgs args)
 		{
 			PlatformID MyOID = MyCheckOS ();
-			String s = "Hello World! " + Enum.GetName (typeof(PlatformID), MyOID);
+			DateTimeOffset ct = DateTime.Now;
+
+			String s = "Hello World! " + Enum.GetName (typeof(PlatformID), MyOID) + " : " + ct.ToString ();
 			System.Console.WriteLine (s);
 		}
 	}
