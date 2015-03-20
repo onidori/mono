@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{B17C5DEE-7402-48E9-A985-2A87BAE65835}</ProjectGuid>
+    <ProjectGuid>{66BA3BF4-3071-4F1A-8FB0-55F79A8B7428}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>gtkTest</RootNamespace>
-    <AssemblyName>gtkTest</AssemblyName>
+    <RootNamespace>gtkTestlayout</RootNamespace>
+    <AssemblyName>gtkTest-layout</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -70,10 +70,4 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-  <ItemGroup>
-    <ProjectReference Include="..\MyLibrary\MyLibrary.csproj">
-      <Project>{A7A553B7-B035-4A3D-9AFA-F852DC3F9807}</Project>
-      <Name>MyLibrary</Name>
-    </ProjectReference>
-  </ItemGroup>
 </Project>
