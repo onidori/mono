@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections;
-using MyLibrary.System;
+using static MyLibrary.System;
 
 namespace BoxUnbox
 {
