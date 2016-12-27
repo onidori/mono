@@ -1,6 +1,6 @@
 ﻿using System;
 using Gtk;
-using MyLibrary.System;
+using static MyLibrary.System;
 
 namespace gtkTest
 {
