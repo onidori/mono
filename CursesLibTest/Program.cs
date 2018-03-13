@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Runtime.InteropServices;
-using MyLibrary.System;
+using static MyLibrary.System;
 
 namespace CursesLibTest
 {

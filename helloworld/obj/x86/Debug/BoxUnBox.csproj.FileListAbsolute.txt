@@ -1,0 +1,15 @@
+C:\Users\darwe\Projects\helloworld\bin\Debug\helloworld.exe.config
+C:\Users\darwe\Projects\helloworld\bin\Debug\helloworld.exe
+C:\Users\darwe\Projects\helloworld\bin\Debug\helloworld.pdb
+C:\Users\darwe\Projects\helloworld\bin\Debug\mscorlib.dll
+C:\Users\darwe\Projects\helloworld\bin\Debug\MyLibrary.dll
+C:\Users\darwe\Projects\helloworld\bin\Debug\MySql.Data.dll
+C:\Users\darwe\Projects\helloworld\bin\Debug\MyLibrary.pdb
+C:\Users\darwe\Projects\helloworld\bin\Debug\normidna.nlp
+C:\Users\darwe\Projects\helloworld\bin\Debug\normnfc.nlp
+C:\Users\darwe\Projects\helloworld\bin\Debug\normnfd.nlp
+C:\Users\darwe\Projects\helloworld\bin\Debug\normnfkc.nlp
+C:\Users\darwe\Projects\helloworld\bin\Debug\normnfkd.nlp
+C:\Users\darwe\Projects\helloworld\obj\x86\Debug\BoxUnBox.csprojResolveAssemblyReference.cache
+C:\Users\darwe\Projects\helloworld\obj\x86\Debug\helloworld.exe
+C:\Users\darwe\Projects\helloworld\obj\x86\Debug\helloworld.pdb
