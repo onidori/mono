@@ -8,3 +8,14 @@ C:\Users\darwe\Projects\MyLibrary\bin\Debug\normnfkc.nlp
 C:\Users\darwe\Projects\MyLibrary\bin\Debug\normnfkd.nlp
 C:\Users\darwe\Projects\MyLibrary\obj\Debug\MyLibrary.dll
 C:\Users\darwe\Projects\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\darwe\Projects\onidori\mono.git\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\darwe\Projects\onidori\mono.git\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\darwe\Projects\onidori\mono.git\MyLibrary\bin\Debug\mscorlib.dll
+C:\Users\darwe\Projects\onidori\mono.git\MyLibrary\bin\Debug\normidna.nlp
+C:\Users\darwe\Projects\onidori\mono.git\MyLibrary\bin\Debug\normnfc.nlp
+C:\Users\darwe\Projects\onidori\mono.git\MyLibrary\bin\Debug\normnfd.nlp
+C:\Users\darwe\Projects\onidori\mono.git\MyLibrary\bin\Debug\normnfkc.nlp
+C:\Users\darwe\Projects\onidori\mono.git\MyLibrary\bin\Debug\normnfkd.nlp
+C:\Users\darwe\Projects\onidori\mono.git\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\darwe\Projects\onidori\mono.git\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\darwe\Projects\onidori\mono.git\MyLibrary\obj\Debug\MyLibrary.pdb

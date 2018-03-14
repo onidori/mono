@@ -5,24 +5,11 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="CursesLibTest\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets">
     <Files>
-      <File FileName="CursesLibTest\Program.cs" Line="11" Column="4" />
+      <File FileName="CursesLibTest\Program.cs" Line="10" Column="37" />
+      <File FileName="..\..\..\..\..\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets" Line="1097" Column="5" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="MonoTest" expanded="True">
-            <Node name="Solution Items" selected="True" />
-            <Node name="gtkTest-layout" expanded="True">
-              <Node name="UserInterface" expanded="True" />
-            </Node>
-            <Node name="MyLibrary" expanded="True" />
-            <Node name="WatchDirectory" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>
