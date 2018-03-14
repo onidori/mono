@@ -8,3 +8,8 @@ C:\Users\darwe\Projects\MyLibrary\bin\Debug\normnfkc.nlp
 C:\Users\darwe\Projects\MyLibrary\bin\Debug\normnfkd.nlp
 C:\Users\darwe\Projects\MyLibrary\obj\Debug\MyLibrary.dll
 C:\Users\darwe\Projects\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\darwe\Projects\mono\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\darwe\Projects\mono\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\darwe\Projects\mono\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\darwe\Projects\mono\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\darwe\Projects\mono\MyLibrary\obj\Debug\MyLibrary.pdb

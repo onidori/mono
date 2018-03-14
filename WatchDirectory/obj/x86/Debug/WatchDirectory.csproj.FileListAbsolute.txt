@@ -9,3 +9,9 @@ C:\Users\darwe\Projects\WatchDirectory\bin\Debug\normnfkd.nlp
 C:\Users\darwe\Projects\WatchDirectory\obj\x86\Debug\WatchDirectory.csprojResolveAssemblyReference.cache
 C:\Users\darwe\Projects\WatchDirectory\obj\x86\Debug\WatchDirectory.exe
 C:\Users\darwe\Projects\WatchDirectory\obj\x86\Debug\WatchDirectory.pdb
+C:\Users\darwe\Projects\mono\WatchDirectory\bin\Debug\WatchDirectory.exe
+C:\Users\darwe\Projects\mono\WatchDirectory\bin\Debug\WatchDirectory.pdb
+C:\Users\darwe\Projects\mono\WatchDirectory\obj\x86\Debug\WatchDirectory.csprojResolveAssemblyReference.cache
+C:\Users\darwe\Projects\mono\WatchDirectory\obj\x86\Debug\WatchDirectory.csproj.CoreCompileInputs.cache
+C:\Users\darwe\Projects\mono\WatchDirectory\obj\x86\Debug\WatchDirectory.exe
+C:\Users\darwe\Projects\mono\WatchDirectory\obj\x86\Debug\WatchDirectory.pdb
