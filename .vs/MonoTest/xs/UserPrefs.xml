@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B17C5DEE-7402-48E9-A985-2A87BAE65835}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="gtkTest/Program.cs">
+    <Files>
+      <File FileName="gtkTest/Program.cs" Line="11" Column="1" />
+      <File FileName="gtkTest-layout/Program.cs" Line="57" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WatchDirectory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.gtkTest-layout PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BoxUnBox PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.gtkTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

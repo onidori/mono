@@ -1,0 +1,5 @@
+/Users/darwei2/Documents/GitHub/mono/WatchDirectory/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/darwei2/Documents/GitHub/mono/WatchDirectory/bin/Debug/WatchDirectory.pdb
+/Users/darwei2/Documents/GitHub/mono/WatchDirectory/bin/Debug/WatchDirectory.exe
+/Users/darwei2/Documents/GitHub/mono/WatchDirectory/obj/x86/Debug/WatchDirectory.exe
+/Users/darwei2/Documents/GitHub/mono/WatchDirectory/obj/x86/Debug/WatchDirectory.pdb
